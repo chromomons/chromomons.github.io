@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I was born in 1998 in Karaganda, Kazakhstan. I graduated from Nazarbayev University with a double major in Computer Science and Mathematics in 2020. I am currently working towards my Ph.D. in Applied Mathematics, specializing in Numerical Methods for Partial Differential Equations with an emphasis on Scientific Computing. I am expecting to graduate in 2025.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Outside school, I enjoy photography ([Behance](https://www.behance.net/chromomons)), writing reviews on albums and film ([RYM](https://www.rateyourmusic.com/~chromomons)), and play CS:GO.
