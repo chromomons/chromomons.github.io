@@ -5,24 +5,33 @@ permalink: /cv/
 ---
 
 # Bio
-I was born in 1998 in [Karaganda, Kazakhstan](https://en.wikipedia.org/wiki/Karaganda). I am fluent in Russian, and speak some Kazakh.
+I was born in 1998 in [Karaganda, Kazakhstan][1]). I am fluent in Russian, and speak some Kazakh.
 
 # Education
-- 2013-2016: Highschool diploma from [Nazarbayev Intellectual School](https://en.wikipedia.org/wiki/Nazarbayev_Intellectual_Schools), Karaganda, Kazakhstan
-- 2016-2020: BS in Computer Science from [Nazarbayev University](https://nu.edu.kz/), Astana, Kazakhstan
-- 2020-present: PhD in Applied Mathematics from [University of Maryland, College Park](https://umd.edu/). Advisor: Ricardo H. Nochetto
+- 2013-2016: Highschool diploma from [Nazarbayev Intellectual School][2], Karaganda, Kazakhstan
+- 2016-2020: BS in Computer Science from [Nazarbayev University][3], Astana, Kazakhstan
+- 2020-present: PhD in [Applied Mathematics][4] from [University of Maryland, College Park][5]. Advisor: Ricardo H. Nochetto
 
 # Areas of interest
 Numerical methods for surface PDEs, convergence to minimum regularity solutions, stabilization
 
 # Teaching experience
-- Instructing College Algebra and Trigonometry ([MATH 113](https://www-math.umd.edu/offered-courses/358-math-113-college-algebra-with-applications.html)) @ UMD, 2 semesters
-- Holding discussion sessions for Elementary Calculus I ([MATH 120](https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/640-math-120-elementary-calculus-i.html)) @ UMD, 1 semester
+- Instructing College Algebra and Trigonometry ([MATH 113][6]) @ UMD, 2 semesters
+- Holding discussion sessions for Elementary Calculus I ([MATH 120][7]) @ UMD, 1 semester
 
 # Other endeavors
-- Digital photography ([Bēhance](https://www.behance.net/chromomons))
-- Writing reviews on albums and film ([RYM](https://www.rateyourmusic.com/~chromomons))
+- Digital photography ([Bēhance][8])
+- Writing reviews on albums and film ([RYM][9])
 
-The `.pdf` version of CV can be downloaded from [here][1] (version from April 2023).
+The `.pdf` version of my CV can be viewed [here][10] (version from April 2023).
 
-[1]:{{ site.url }}/download/cv.pdf
+[1]:https://en.wikipedia.org/wiki/Karaganda
+[2]:https://en.wikipedia.org/wiki/Nazarbayev_Intellectual_Schools
+[3]:https://nu.edu.kz/
+[4]:https://amsc.umd.edu/
+[5]:https://umd.edu/
+[6]:https://www-math.umd.edu/offered-courses/358-math-113-college-algebra-with-applications.html
+[7]:https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/640-math-120-elementary-calculus-i.html
+[8]:https://www.behance.net/chromomons
+[9]:https://www.rateyourmusic.com/~chromomons
+[10]:https://drive.google.com/file/d/1Rthgx3i8lzARvEnGtP0lW6N0KM1mG3gY/view?usp=sharing
