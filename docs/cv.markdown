@@ -23,4 +23,6 @@ Numerical methods for surface PDEs, convergence to minimum regularity solutions,
 - Digital photography ([Bēhance](https://www.behance.net/chromomons))
 - Writing reviews on albums and film ([RYM](https://www.rateyourmusic.com/~chromomons))
 
-The `.pdf` version of CV can be downloaded from [here]({{ site.url }}/download/cv.pdf) (version from April 2023).
+The `.pdf` version of CV can be downloaded from [here][1] (version from April 2023).
+
+[1]:{{ site.url }}/download/cv.pdf
