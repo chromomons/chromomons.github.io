@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 # Bio
-I was born in 1998 in [Karaganda, Kazakhstan][1]). I am fluent in Russian, and speak some Kazakh.
+I was born in 1998 in [Karaganda, Kazakhstan][1]. I am fluent in Russian, and speak some Kazakh.
 
 # Education
 - 2013-2016: Highschool diploma from [Nazarbayev Intellectual School][2], Karaganda, Kazakhstan
@@ -23,7 +23,7 @@ Numerical methods for surface PDEs, convergence to minimum regularity solutions,
 - Digital photography ([Bēhance][8])
 - Writing reviews on albums and film ([RYM][9])
 
-The `.pdf` version of my CV can be viewed [here][10] (version from April 2023).
+The `.pdf` version of my CV can be viewed from [Google Drive][10] (version from April 2023).
 
 [1]:https://en.wikipedia.org/wiki/Karaganda
 [2]:https://en.wikipedia.org/wiki/Nazarbayev_Intellectual_Schools
