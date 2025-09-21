@@ -22,11 +22,12 @@ This is joint work with
 - Ricardo H. Nochetto (University of Maryland, College Park),
 - Vladimir Yushutin (University of Tennessee, Knoxville).
 
-We consider the heat equation $\partial_t u - \Delta_\Gamma u = f, u(0) = u_0$ posed on a stationary surface $\Gamma$. In this work, we discretize the problem in space with an Eulerian finite element method called TraceFEM and derive necessary and sufficient conditions for the uniform discrete inf-sup stability of the scheme. We relate the inf-sup stability of the scheme with the $H^1$-stability of an appropriate $L^2$-projection on the finite element space. With the inf-sup stability at hand, we were able to derive a quasi-best approximation property, optimal order-regularity error estimates and convergence under minimal data regularity: $u_0 \in L^2, f \in L^2([0,T]; H^{-1})$. The proposed method also yields an optimal condition number when discretized further in space.
+We consider the heat equation $$\partial_t u - \Delta_\Gamma u = f, u(0) = u_0$$ posed on a stationary surface $\Gamma$. In this work, we discretize the problem in space with an Eulerian finite element method called TraceFEM and derive necessary and sufficient conditions for the uniform discrete inf-sup stability of the scheme. We relate the inf-sup stability of the scheme with the $$H^1$$-stability of an appropriate $$L^2$$-projection on the finite element space. With the inf-sup stability at hand, we were able to derive a quasi-best approximation property, optimal order-regularity error estimates and convergence under minimal data regularity: $$u_0 \in L^2, f \in L^2([0,T]; H^{-1})$$. The proposed method also yields an optimal condition number when discretized further in space.
 
-The work was motivated by discretization of a hydrodynamical model of liquid crystals (the surface Beris-Edwards model) that was recently derived by my coauthors. In that problem, due to its nonlinear structure, proving convergence of the scheme requires having a priori control of the time derivative of the discrete solution. However, due to the model's complex structure, obtaining a priori stability estimates by testing with $\partial_t u$ is not possible. Simplification of the problem led to the quesiton of convergence of TraceFEM for the simple heat equation $\partial_t u - \Delta_\Gamma u = f, u(0) = u_0$ under minimal data regularity. Existing methods in the literature did not yield that result, which was the catalyst for the present work.
+The work was motivated by discretization of a hydrodynamical model of liquid crystals (the surface Beris-Edwards model) that was recently derived by my coauthors. In that problem, due to its nonlinear structure, proving convergence of the scheme requires having a priori control of the time derivative of the discrete solution. However, due to the model's complex structure, obtaining a priori stability estimates by testing with $$\partial_t u$$ is not possible. Simplification of the problem led to the quesiton of convergence of TraceFEM for the simple heat equation $$\partial_t u - \Delta_\Gamma u = f, u(0) = u_0$$ under minimal data regularity. Existing methods in the literature did not yield that result, which was the catalyst for the present work.
 
 The paper is to appear in Journal of Foundations of Computational Mathematics.
+
 arXiv: [https://arxiv.org/abs/2409.13944](https://arxiv.org/abs/2409.13944)
 
 ### $L^p$-based Soboled Theory for PDEs on Closed Manifolds of Class $C^m$
@@ -43,10 +44,10 @@ In particular, for closed manifolds of class $C^k$, we study the four main probl
 - tangent surface Navier-Stokes problems.
 
 For these problems, we address the following questions:
-- Well-posedness in $W^{1,p}, 1<p<\infty$.
-- $W^{k,p}$-regularity estimates.
+- Well-posedness in $$W^{1,p}, 1<p<\infty$$.
+- $$W^{k,p}$$-regularity estimates.
 
-In all these results, we focus on having sharp assumptions on the regularity of the underlying manifold $\Gamma$. We develop this theory without resorting to the potential theory on manifolds. Instead, we use the Calderon-Zygmund theory in Euclidean domains and combine it with geometric and functional-analytic arguments.
+In all these results, we focus on having sharp assumptions on the regularity of the underlying manifold $$\Gamma$$. We develop this theory without resorting to the potential theory on manifolds. Instead, we use the Calderon-Zygmund theory in Euclidean domains and combine it with geometric and functional-analytic arguments.
 
 arXiv: [https://arxiv.org/abs/2508.11109](https://arxiv.org/abs/2508.11109)
 
@@ -59,4 +60,5 @@ In bounded, flat domains, finite element discretization of the Stokes problem ge
 In the present work we show that the tangent Stokes problem posed on a closed manifold can be reformulated as an elliptic problem in the velocity-pressure pair-variable. We prove that the resulting non-coercive elliptic problem is well-posed. This then leads to a family of numerical methods that do not require the validity of the discrete inf-sup condition by the virtue of being a discretization of an elliptic problem (as opposed to a saddle point one). We derive stability and quasi-best approximation property, as well as error estimates for a parametric FEM. We provide numerical experiments that demonstrate the efficiency of the new method.
 
 The manuscript is submitted.
+
 arXiv: [https://arxiv.org/abs/2508.13342](https://arxiv.org/abs/2508.13342)
