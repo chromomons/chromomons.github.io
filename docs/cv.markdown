@@ -16,8 +16,8 @@ I was born in 1998 in [Karaganda, Kazakhstan][1]. I am fluent in Russian, and sp
 Numerical methods for surface PDEs, convergence to minimum regularity solutions, stabilization
 
 # Teaching experience
-- Instructing College Algebra and Trigonometry ([MATH 113][6]) @ UMD, 2 semesters
-- Holding discussion sessions for Elementary Calculus I ([MATH 120][7]) @ UMD, 1 semester
+- Instructor of College Algebra and Trigonometry ([MATH 113][6]) @ UMD, 2 semesters
+- Teaching Assistant for Elementary Calculus I ([MATH 120][7]) and Calculus II ([MATH 141][11]) @ UMD, 2 semesters total
 
 # Other endeavors
 - Digital photography ([Bēhance][8])
@@ -34,4 +34,5 @@ The `.pdf` version of my CV can be viewed from [Google Drive][10] (version from 
 [7]:https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/640-math-120-elementary-calculus-i.html
 [8]:https://www.behance.net/chromomons
 [9]:https://www.rateyourmusic.com/~chromomons
-[10]:https://drive.google.com/file/d/1Rthgx3i8lzARvEnGtP0lW6N0KM1mG3gY/view?usp=sharing
+[10]:https://drive.google.com/file/d/19d5JBu7yKE3fy0v2TyvXN90XPeEyrkzM/view?usp=sharing
+[11]:https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/364-math-141-calculus-ii.html
