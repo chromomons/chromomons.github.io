@@ -28,15 +28,13 @@ github_username:  chromomons
 author: Mansur Shakipov
 # Build settings
 
+# set up remote_theme
+remote_theme: jekyll/minima
 # Add to plugins: list
 plugins:
   - jekyll-remote-theme
-
-# set up remote_theme
-remote_theme: jekyll/minima
-
-plugins:
   - jekyll-feed
+
 markdown: kramdown
 kramdown:
   math_engine: mathjax
