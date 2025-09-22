@@ -18,9 +18,9 @@ What I am primarily concerned with is how to discretize such PDEs in a robust wa
 
 ### Inf-Sup Stability of Parabolic TraceFEM
 This is joint work with 
-- Lucas Bouck (Carnegie Mellon University),
+- [Lucas Bouck](https://lbouck.github.io/) (Carnegie Mellon University),
 - Ricardo H. Nochetto (University of Maryland, College Park),
-- Vladimir Yushutin (University of Tennessee, Knoxville).
+- [Vladimir Yushutin](https://web.math.utk.edu/~vyushuti/landing/index.html) (University of Tennessee, Knoxville).
 
 We consider the heat equation $\partial_t u - \Delta_\Gamma u = f, u(0) = u_0$ posed on a stationary surface $\Gamma$. In this work, we discretize the problem in space with an Eulerian finite element method called TraceFEM and derive necessary and sufficient conditions for the uniform discrete inf-sup stability of the scheme. We relate the inf-sup stability of the scheme with the $H^1$-stability of an appropriate $L^2$-projection on the finite element space. With the inf-sup stability at hand, we were able to derive a quasi-best approximation property, optimal order-regularity error estimates and convergence under minimal data regularity: $u_0 \in L^2, f \in L^2([0,T]; H^{-1})$. The proposed method also yields an optimal condition number when discretized further in space.
 
@@ -32,7 +32,7 @@ arXiv: [https://arxiv.org/abs/2409.13944](https://arxiv.org/abs/2409.13944)
 
 ### $L^p$-based Soboled Theory for PDEs on Closed Manifolds of Class $C^m$
 This is joint work with 
-- Gonzalo A. Benavides (University of Maryland, College Park),
+- [Gonzalo A. Benavides](https://sites.google.com/view/gonzalobenavides) (University of Maryland, College Park),
 - Ricardo H. Nochetto (University of Maryland, College Park).
 
 PDEs posed on surfaces (or more generally manifolds) has been a topic of research interest for many decades. However, the vast majority of the work in this field has been for manifolds that are smooth (i.e., Riemannian manifolds). This simplifying assumption enables using very powerful analytical tools (e.g., potential theory). However, in real-life applications, the manifolds in question are never smooth. It is therefore desireable to have a PDEs theory that is compatible with non-smooth manifolds (e.g. of class $C^k, k \geq 1$) and that is elementary. This work tackles these issues.
