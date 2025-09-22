@@ -1,5 +1,5 @@
 ---
-layout: my-page
+layout: page
 title: Research
 permalink: /research/
 ---
