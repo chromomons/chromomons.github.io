@@ -28,7 +28,11 @@ github_username:  chromomons
 # Build settings
 
 # Add to plugins: list
-theme: minima
+plugins:
+  - jekyll-remote-theme
+
+# set up remote_theme
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
