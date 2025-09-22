@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Research
 permalink: /research/
 use_math: true
@@ -23,7 +23,7 @@ This is joint work with
 - Ricardo H. Nochetto (University of Maryland, College Park),
 - Vladimir Yushutin (University of Tennessee, Knoxville).
 
-We consider the heat equation \(\partial_t u - \Delta_\Gamma u = f, u(0) = u_0\) posed on a stationary surface $\Gamma$. In this work, we discretize the problem in space with an Eulerian finite element method called TraceFEM and derive necessary and sufficient conditions for the uniform discrete inf-sup stability of the scheme. We relate the inf-sup stability of the scheme with the $H^1$-stability of an appropriate $L^2$-projection on the finite element space. With the inf-sup stability at hand, we were able to derive a quasi-best approximation property, optimal order-regularity error estimates and convergence under minimal data regularity: $u_0 \in L^2, f \in L^2([0,T]; H^{-1})$. The proposed method also yields an optimal condition number when discretized further in space.
+We consider the heat equation $\partial_t u - \Delta_\Gamma u = f, u(0) = u_0$ posed on a stationary surface $\Gamma$. In this work, we discretize the problem in space with an Eulerian finite element method called TraceFEM and derive necessary and sufficient conditions for the uniform discrete inf-sup stability of the scheme. We relate the inf-sup stability of the scheme with the $H^1$-stability of an appropriate $L^2$-projection on the finite element space. With the inf-sup stability at hand, we were able to derive a quasi-best approximation property, optimal order-regularity error estimates and convergence under minimal data regularity: $u_0 \in L^2, f \in L^2([0,T]; H^{-1})$. The proposed method also yields an optimal condition number when discretized further in space.
 
 The work was motivated by discretization of a hydrodynamical model of liquid crystals (the surface Beris-Edwards model) that was recently derived by my coauthors. In that problem, due to its nonlinear structure, proving convergence of the scheme requires having a priori control of the time derivative of the discrete solution. However, due to the model's complex structure, obtaining a priori stability estimates by testing with $\partial_t u$ is not possible. Simplification of the problem led to the quesiton of convergence of TraceFEM for the simple heat equation $\partial_t u - \Delta_\Gamma u = f, u(0) = u_0$ under minimal data regularity. Existing methods in the literature did not yield that result, which was the catalyst for the present work.
 
