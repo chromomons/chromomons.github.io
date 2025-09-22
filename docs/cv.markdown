@@ -23,7 +23,7 @@ Numerical methods for surface PDEs, convergence to minimum regularity solutions,
 - Digital photography ([Bēhance][8])
 - Writing reviews on albums and film ([RYM][9])
 
-The `.pdf` version of my CV can be viewed from [Google Drive][10] (version from April 2023).
+The `.pdf` version of my CV can be viewed from [Google Drive][10] (version from September 2025).
 
 [1]:https://en.wikipedia.org/wiki/Karaganda
 [2]:https://en.wikipedia.org/wiki/Nazarbayev_Intellectual_Schools
