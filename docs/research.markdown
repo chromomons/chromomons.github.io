@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: my-page
 title: Research
 permalink: /research/
-use_math: true
 ---
 
 # Partial Differential Equations on Surfaces
