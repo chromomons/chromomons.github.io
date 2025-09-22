@@ -33,6 +33,8 @@ plugins:
 
 # set up remote_theme
 remote_theme: jekyll/minima
+minima:
+  skin: dark
 
 plugins:
   - jekyll-feed
