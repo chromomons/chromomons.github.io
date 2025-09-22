@@ -19,13 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Mansur Shakipov
-email: shakipov@umd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my home page!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shakipov.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chromomons
-author: Mansur Shakipov
+author:
+  name: Mansur Shakipov
+  email: "shakipov@umd.edu"
 # Build settings
 
 # set up remote_theme
@@ -43,8 +44,16 @@ kramdown:
 
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/chromomons" }
-    - { platform: instagram,  user_url: "https://instagram.com/chromomons" }
+    - title: GitHub
+      icon: github
+      url: "https://github.com/chromomons"
+    - title: Instagram
+      icon: instagram
+      url: "https://instagram.com/chromomons"
+  skin: auto
+  nav_pages:
+    - cv.markdown
+    - research.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
