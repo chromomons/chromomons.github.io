@@ -4,7 +4,6 @@
 
 layout: page
 title: About
-permalink: /about/
 ---
 # Mansur Shakipov
 I am a PhD candidate in Applied Mathematics at the University of Maryland, College Park. My advisor is Ricardo H. Nochetto.
