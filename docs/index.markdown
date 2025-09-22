@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome
 ---
 # Mansur Shakipov
 I am a PhD candidate in Applied Mathematics at the University of Maryland, College Park. My advisor is Ricardo H. Nochetto.
