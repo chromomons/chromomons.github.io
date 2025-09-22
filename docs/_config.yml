@@ -26,7 +26,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chromomons.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chromomons
 # Build settings
-theme: minima
+
+# Add to plugins: list
+plugins:
+  - jekyll-remote-theme
+
+# set up remote_theme
+remote_theme: jekyll/minima
+
 plugins:
   - jekyll-feed
 markdown: kramdown
