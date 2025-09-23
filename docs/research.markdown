@@ -62,3 +62,7 @@ In the present work we show that the tangent Stokes problem posed on a closed ma
 The manuscript is submitted.
 
 arXiv: [https://arxiv.org/abs/2508.13342](https://arxiv.org/abs/2508.13342)
+
+## My research profiles
+- [Google Scholar](https://scholar.google.com/citations?user=DGNJK-QAAAAJ&hl=en)
+- [Research Gate](https://www.researchgate.net/profile/Mansur-Shakipov)
