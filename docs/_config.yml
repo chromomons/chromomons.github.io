@@ -50,7 +50,10 @@ minima:
     - title: Instagram
       icon: instagram
       url: "https://instagram.com/chromomons"
-  skin: auto
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/chromomons/"
+  skin: solarized
   nav_pages:
     - cv.markdown
     - research.markdown
