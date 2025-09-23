@@ -53,11 +53,15 @@ minima:
     - title: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/chromomons/"
+    - title: Google Scholar
+      icon: google-scholar
+      url: "https://scholar.google.com/citations?user=DGNJK-QAAAAJ&hl=en"
   skin: solarized
   nav_pages:
     - cv.markdown
     - research.markdown
     - contact.markdown
+  hide_site_feed_link: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
