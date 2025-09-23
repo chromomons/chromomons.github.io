@@ -54,6 +54,7 @@ minima:
   nav_pages:
     - cv.markdown
     - research.markdown
+    - contact.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
