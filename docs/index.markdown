@@ -11,5 +11,5 @@ My research interest lies in design, analysis and implementation of numerical me
 
 # Recent research papers
 - (2025-08) [Surface Stokes Without Inf-Sup Condition](https://arxiv.org/abs/2508.13342) with R. H. Nochetto;
-- (2025-08) [$L^p$-based Soboled Theory for PDEs on Closed Manifolds of Class $C^m$](https://arxiv.org/abs/2508.11109), with G. A. Benavides and R. H. Nochetto;
-- (2024-09) [Inf-Sup Stability of Parabolic TraceFEM](https://arxiv.org/abs/2409.13944), with L. Bouck, R. H. Nochetto and V. Yushutin.
+- (2025-08) [$L^p$-based Soboled Theory for PDEs on Closed Manifolds of Class $C^m$](https://arxiv.org/abs/2508.11109), with [G. A. Benavides](https://sites.google.com/view/gonzalobenavides) and R. H. Nochetto;
+- (2024-09) [Inf-Sup Stability of Parabolic TraceFEM](https://arxiv.org/abs/2409.13944), with [Lucas Bouck](https://lbouck.github.io/), R. H. Nochetto and [Vladimir Yushutin](https://web.math.utk.edu/~vyushuti/landing/index.html).
