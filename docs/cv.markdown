@@ -13,7 +13,7 @@ I was born in 1998 in [Karaganda, Kazakhstan](https://en.wikipedia.org/wiki/Kara
 - 2020-present: PhD in [Applied Mathematics](https://amsc.umd.edu/) from [University of Maryland, College Park](https://umd.edu/). Advisor: Ricardo H. Nochetto
 
 # Research interest
-Numerical methods for surface PDEs, convergence to minimum regularity solutions, stabilization
+Numerical methods for surface PDEs, fitted and unfitted methods, inf-sup stability
 
 # Teaching experience
 - Instructor of College Algebra and Trigonometry ([MATH 113](https://www-math.umd.edu/offered-courses/358-math-113-college-algebra-with-applications.html)) @ UMD, 2 semesters
