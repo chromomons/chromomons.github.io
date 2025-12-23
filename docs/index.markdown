@@ -9,6 +9,8 @@ I am a PhD candidate in Applied Mathematics at the University of Maryland, Colle
 
 My research interest lies in design, analysis and implementation of numerical methods for partial differential equations posed on surfaces.
 
+Here are the links to my [Google Scholar](https://scholar.google.com/citations?user=DGNJK-QAAAAJ&hl=en) profile and my [GitHub](https://github.com/chromomons) page.
+
 # Recent research papers
 - (2025-08) [Surface Stokes Without Inf-Sup Condition](https://arxiv.org/abs/2508.13342) with R. H. Nochetto;
 - (2025-08) [$L^p$-based Soboled Theory for PDEs on Closed Manifolds of Class $C^m$](https://arxiv.org/abs/2508.11109), with [G. A. Benavides](https://sites.google.com/view/gonzalobenavides) and R. H. Nochetto;
