@@ -23,4 +23,4 @@ Numerical methods for surface PDEs, fitted and unfitted methods, inf-sup stabili
 - Digital photography ([Bēhance](https://www.behance.net/chromomons))
 - Writing reviews on albums and film ([RYM](https://www.rateyourmusic.com/~chromomons))
 
-The full `.pdf` version of my CV can be viewed from [Google Drive](https://drive.google.com/file/d/19d5JBu7yKE3fy0v2TyvXN90XPeEyrkzM/view?usp=sharing) (version from September 2025).
+The full `.pdf` version of my CV can be viewed from [Google Drive](https://drive.google.com/file/d/1dFIHNy-fFkD7UQdqVeO4XY5XZoaHvb6P/view?usp=sharing) (version from September 2025).
