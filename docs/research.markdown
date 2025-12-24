@@ -66,3 +66,7 @@ arXiv: [https://arxiv.org/abs/2508.13342](https://arxiv.org/abs/2508.13342)
 ## My research profiles
 - [Google Scholar](https://scholar.google.com/citations?user=DGNJK-QAAAAJ&hl=en)
 - [Research Gate](https://www.researchgate.net/profile/Mansur-Shakipov)
+
+## Codes developed
+- [Stabilized TraceFEM codes for various PDEs on surfaces (part of coursework at UMD)](https://github.com/chromomons/surf-pde)
+- [Complimentary code for the Surface Stokes Without Inf-Sup Condition paper](https://github.com/chromomons/surface-stokes-without-inf-sup-condition)
