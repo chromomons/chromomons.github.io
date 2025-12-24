@@ -5,7 +5,10 @@
 layout: home
 title: About me
 ---
-![Astana, Kazakhstan (2018)](headshot.jpg)
+<p align="center">
+    <img src="headshot.jpg" width="400" height="400">
+</p>
+
 I am a PhD candidate in Applied Mathematics at the University of Maryland, College Park. My advisor is Ricardo H. Nochetto.
 
 My research interest lies in design, analysis and implementation of numerical methods for partial differential equations posed on surfaces.
