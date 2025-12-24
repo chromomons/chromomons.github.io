@@ -30,6 +30,11 @@ The paper is to appear in Journal of Foundations of Computational Mathematics.
 
 arXiv: [https://arxiv.org/abs/2409.13944](https://arxiv.org/abs/2409.13944)
 
+<figure>
+    ![Evolving surface heat equation](movie-diffusion.gif)
+    <figcaption>Evolving surface heat equation with rough data.</figcaption>
+</figure>
+
 ### $L^p$-based Soboled Theory for PDEs on Closed Manifolds of Class $C^m$
 This is joint work with 
 - [Gonzalo A. Benavides](https://sites.google.com/view/gonzalobenavides) (University of Maryland, College Park),
@@ -53,8 +58,6 @@ arXiv: [https://arxiv.org/abs/2508.11109](https://arxiv.org/abs/2508.11109)
 
 ### Surface Stokes Without Inf-Sup Condition
 
-![Tangential Navier-Stokes on a torus](movie1.gif)
-
 This is joint work with 
 - Ricardo H. Nochetto (University of Maryland, College Park).
 
@@ -65,6 +68,11 @@ In the present work we show that the tangent Stokes problem posed on a closed ma
 The manuscript is submitted.
 
 arXiv: [https://arxiv.org/abs/2508.13342](https://arxiv.org/abs/2508.13342)
+
+<figure>
+    ![Tangential Navier-Stokes on a torus](movie1.gif)
+    <figcaption>Tangential Navier-Stokes equations on a torus solved using a (non inf-sup stable) $P_k/P_k$-Lagrange velocity-pressure pair.</figcaption>
+</figure>
 
 ## My research profiles
 - [Google Scholar](https://scholar.google.com/citations?user=DGNJK-QAAAAJ&hl=en)
