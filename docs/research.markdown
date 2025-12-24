@@ -52,6 +52,9 @@ In all these results, we focus on having sharp assumptions on the regularity of 
 arXiv: [https://arxiv.org/abs/2508.11109](https://arxiv.org/abs/2508.11109)
 
 ### Surface Stokes Without Inf-Sup Condition
+
+![Tangential Navier-Stokes on a torus](movie1.gif)
+
 This is joint work with 
 - Ricardo H. Nochetto (University of Maryland, College Park).
 
