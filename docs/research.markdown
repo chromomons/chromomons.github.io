@@ -68,5 +68,5 @@ arXiv: [https://arxiv.org/abs/2508.13342](https://arxiv.org/abs/2508.13342)
 - [Research Gate](https://www.researchgate.net/profile/Mansur-Shakipov)
 
 ## Codes developed
-- [Stabilized TraceFEM codes for various PDEs on surfaces (part of coursework at UMD)](https://github.com/chromomons/surf-pde)
-- [Complimentary code for the Surface Stokes Without Inf-Sup Condition paper](https://github.com/chromomons/surface-stokes-without-inf-sup-condition)
+- Stabilized TraceFEM codes for various PDEs on surfaces (part of coursework at UMD). The routines are implemented in [`ngsxfem`](https://github.com/ngsxfem/ngsxfem) add-on to the [`NGSolve`](https://ngsolve.org/) library; see [link to Github](https://github.com/chromomons/surf-pde)
+- Complimentary code for the Surface Stokes Without Inf-Sup Condition paper. The solvers are implemented in [`NGSolve`](https://ngsolve.org/); see [link to Github](https://github.com/chromomons/surface-stokes-without-inf-sup-condition)
