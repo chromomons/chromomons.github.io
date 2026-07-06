@@ -5,12 +5,12 @@ permalink: /contact/
 ---
 
 # Currect place of residense
-University Park, MD, USA
+Astana, Kazakhstan
 
-# Work address
+<!-- # Work address
 Office 4400, William E. Kirwan Hall
 
-4176 Campus Dr, College Park, MD 20742
+4176 Campus Dr, College Park, MD 20742 -->
 
 # Social
 - email: ```shakipov@umd.edu```

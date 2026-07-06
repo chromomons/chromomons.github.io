@@ -20,7 +20,7 @@
 
 title: Mansur Shakipov
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my homepage! Here you can find recent information about my life and research.
+  Last updated on 2026-07-06.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shakipov.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chromomons
