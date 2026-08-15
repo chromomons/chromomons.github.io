@@ -11,7 +11,7 @@ title: About me
 
 I am a computational and applied mathematician specializing in design, analysis and implementation of numerical methods for partial differential equations posed on surfaces.
 
-I defended my PhD at the University of Maryland, College Park under Prof. Ricardo H. Nochetto in 2026. Prior to that, in 2020, I got my bachelor's in Computer Science at Nazarbayev University (Astana, Kazakhstan).
+I am a postdoctoral scholar at the [University of Houston](https://en.wikipedia.org/wiki/University_of_Houston), working with Prof. [Maxim Olshanskii](https://www.math.uh.edu/~molshan/) on discretization of fluid problems posed on surfaces with TraceFEM. I defended my PhD at the [University of Maryland, College Park](https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park) under Prof. Ricardo H. Nochetto in 2026. Prior to that, in 2020, I got my bachelor's in Computer Science at [Nazarbayev University](https://en.wikipedia.org/wiki/Nazarbayev_University) (Astana, Kazakhstan).
 
 Here are the links to my [Google Scholar](https://scholar.google.com/citations?user=DGNJK-QAAAAJ&hl=en) profile and my [GitHub](https://github.com/chromomons) page.
 

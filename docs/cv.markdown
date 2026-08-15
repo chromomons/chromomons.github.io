@@ -9,8 +9,8 @@ I was born in 1998 in [Karaganda, Kazakhstan](https://en.wikipedia.org/wiki/Kara
 
 # Education
 - 2013-2016: Highschool diploma from [Nazarbayev Intellectual School](https://en.wikipedia.org/wiki/Nazarbayev_Intellectual_Schools), Karaganda, Kazakhstan
-- 2016-2020: BS in Computer Science from [Nazarbayev University](https://nu.edu.kz/), Astana, Kazakhstan
-- 2020-2026: PhD in [Applied Mathematics](https://amsc.umd.edu/) from [University of Maryland, College Park](https://umd.edu/). Advisor: Ricardo H. Nochetto
+- 2016-2020: BS in Computer Science from [Nazarbayev University](https://en.wikipedia.org/wiki/Nazarbayev_University), Astana, Kazakhstan
+- 2020-2026: PhD in [Applied Mathematics](https://amsc.umd.edu/) from [University of Maryland, College Park](https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park). Advisor: Ricardo H. Nochetto
 
 # Research interest
 Numerical methods for surface PDEs, fitted and unfitted methods, inf-sup stability
