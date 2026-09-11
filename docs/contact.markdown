@@ -8,12 +8,12 @@ permalink: /contact/
 Astana, Kazakhstan
 
 <!-- # Work address
-Office 4400, William E. Kirwan Hall
+Office 636, Philip Guthrie Hoffman Hall
 
-4176 Campus Dr, College Park, MD 20742 -->
+3551 Cullen Blvd, Houston, TX 77204 -->
 
 # Social
-- email: ```shakipov@umd.edu```
+- email: ```shakipov@umd.edu```, ```mshakipov@uh.edu```
 - [LinkedIn](https://www.linkedin.com/in/chromomons/)
 
 Email is the preferred and fastest way of reaching out to me.
