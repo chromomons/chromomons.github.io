@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 # Currect place of residense
-Astana, Kazakhstan
+Houston, Texas, USA
 
 <!-- # Work address
 Office 636, Philip Guthrie Hoffman Hall
