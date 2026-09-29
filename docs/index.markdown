@@ -24,4 +24,4 @@ Here are the links to my [Google Scholar](https://scholar.google.com/citations?u
 ](https://arxiv.org/abs/2606.01392), with [G. A. Benavides](https://sites.google.com/view/gonzalobenavides) and R. H. Nochetto;
 - (2026-03) (arXiv) [$L^p$-based Sobolev theory on closed manifolds of minimal regularity: Vector-valued problems](https://arxiv.org/abs/2508.11109), with [G. A. Benavides](https://sites.google.com/view/gonzalobenavides) and R. H. Nochetto;
 - (2026-03) (J. Math. Anal. Appl.) [$L^p$-based Sobolev theory on closed manifolds of minimal regularity: Scalar elliptic equations](https://doi.org/10.1016/j.jmaa.2026.130666), with [G. A. Benavides](https://sites.google.com/view/gonzalobenavides) and R. H. Nochetto;
-- (2025-08) (arXiv) [Surface Stokes Without Inf-Sup Condition](https://arxiv.org/abs/2508.13342) with R. H. Nochetto.
+- (2025-08) (arXiv) [Surface Stokes Without Inf-Sup Condition](https://arxiv.org/abs/2508.13342) with R. H. Nochetto. Accepted to SIAM Journal on Numerical Analysis.
