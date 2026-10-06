@@ -16,12 +16,13 @@ I am a postdoctoral scholar at the [University of Houston](https://en.wikipedia.
 Here are the links to my [Google Scholar](https://scholar.google.com/citations?user=DGNJK-QAAAAJ&hl=en) profile and my [GitHub](https://github.com/chromomons) page.
 
 # Recent research papers
+- (2026-10) (arXiv) [Surface Stokes-Cahn-Hilliard System: Analysis and Structure-Preserving Discretization](https://arxiv.org/abs/2610.06552) with [M. A. Olshanskii](https://www.math.uh.edu/~molshan/);
+- (2026-09) (SIAM Journal on Numerical Analysis, accepted) [Surface Stokes Without Inf-Sup Condition](https://arxiv.org/abs/2508.13342) with R. H. Nochetto;
+- (2026-09) (SIAM Journal on Mathematical Analysis, accepted) [$L^p$-based Sobolev theory on closed manifolds of minimal regularity: Vector-valued problems](https://arxiv.org/abs/2508.11109), with [G. A. Benavides](https://sites.google.com/view/gonzalobenavides) and R. H. Nochetto;
 - (2026-06) (arXiv) [Existence of weak solutions of the surface Beris-Edwards model
 ](https://arxiv.org/abs/2607.01638), with [G. A. Benavides](https://sites.google.com/view/gonzalobenavides) and R. H. Nochetto;
 - (2026-06) (Found. Comp. Math.) [Inf-Sup Stability of Parabolic TraceFEM
 ](https://link.springer.com/article/10.1007/s10208-026-09757-7) with [Lucas Bouck](https://lbouck.github.io/), R. H. Nochetto and [Vladimir Yushutin](https://web.math.utk.edu/~vyushuti/landing/index.html);
 - (2026-05) (arXiv) [Ferrofluids: Modeling and Approximation
 ](https://arxiv.org/abs/2606.01392), with [G. A. Benavides](https://sites.google.com/view/gonzalobenavides) and R. H. Nochetto;
-- (2026-03) (arXiv) [$L^p$-based Sobolev theory on closed manifolds of minimal regularity: Vector-valued problems](https://arxiv.org/abs/2508.11109), with [G. A. Benavides](https://sites.google.com/view/gonzalobenavides) and R. H. Nochetto. Accepted to SIAM Journal on Mathematical Analysis;
-- (2026-03) (J. Math. Anal. Appl.) [$L^p$-based Sobolev theory on closed manifolds of minimal regularity: Scalar elliptic equations](https://doi.org/10.1016/j.jmaa.2026.130666), with [G. A. Benavides](https://sites.google.com/view/gonzalobenavides) and R. H. Nochetto;
-- (2025-08) (arXiv) [Surface Stokes Without Inf-Sup Condition](https://arxiv.org/abs/2508.13342) with R. H. Nochetto. Accepted to SIAM Journal on Numerical Analysis.
+- (2026-03) (J. Math. Anal. Appl.) [$L^p$-based Sobolev theory on closed manifolds of minimal regularity: Scalar elliptic equations](https://doi.org/10.1016/j.jmaa.2026.130666), with [G. A. Benavides](https://sites.google.com/view/gonzalobenavides) and R. H. Nochetto.
