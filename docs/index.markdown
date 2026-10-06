@@ -15,6 +15,8 @@ I am a postdoctoral scholar at the [University of Houston](https://en.wikipedia.
 
 Here are the links to my [Google Scholar](https://scholar.google.com/citations?user=DGNJK-QAAAAJ&hl=en) profile and my [GitHub](https://github.com/chromomons) page.
 
+**Currently looking for a postdoctoral position starting in August 2027 or later.**
+
 # Recent research papers
 - (2026-10) (arXiv) [Surface Stokes-Cahn-Hilliard System: Analysis and Structure-Preserving Discretization](https://arxiv.org/abs/2610.06552) with [M. A. Olshanskii](https://www.math.uh.edu/~molshan/);
 - (2026-09) (SIAM Journal on Numerical Analysis, accepted) [Surface Stokes Without Inf-Sup Condition](https://arxiv.org/abs/2508.13342) with R. H. Nochetto;
